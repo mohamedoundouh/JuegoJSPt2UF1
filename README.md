@@ -29,4 +29,4 @@ Siéntete libre de personalizar el juego o agregar nuevas características segú
 
 ## Autor
 
-[Mohamed Oundouh]
+Mohamed Oundouh
