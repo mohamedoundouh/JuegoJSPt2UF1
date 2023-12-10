@@ -29,8 +29,4 @@ Siéntete libre de personalizar el juego o agregar nuevas características segú
 
 ## Autor
 
-[Nombre del Autor]
-
-## Licencia
-
-Este proyecto está bajo la Licencia [Nombre de la Licencia]. Puedes encontrar más detalles en el archivo `LICENSE`.
+[Mohamed Oundouh]
